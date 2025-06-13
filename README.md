@@ -324,3 +324,6 @@ For questions, issues, or contributions:
 - **API Documentation**: Visit `/docs` endpoints on running servers
 
 ---
+
+![Image 1](architecture.png)
+
