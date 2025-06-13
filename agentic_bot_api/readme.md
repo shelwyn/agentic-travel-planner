@@ -296,3 +296,5 @@ The structured metadata response enables rich frontend features:
 - **Loading states** with agent execution tracking
 
 This project demonstrates modern AI application architecture using autonomous agents that can make intelligent decisions about when and how to interact with external search services.
+
+![Image 1](architecture.png)
