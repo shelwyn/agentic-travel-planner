@@ -79,3 +79,5 @@ The API will be available at `http://localhost:5000`.
 **Flight Data:** Each flight includes name, fare, cities, departure time, and flight number.
 
 **Hotel Data:** Each hotel includes destination, name, and nightly rate. The CSV uses grouped format where destination appears only on the first row of each city group.
+
+![Image 1](architecture.png)
