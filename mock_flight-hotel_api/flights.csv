@@ -1,0 +1,127 @@
+﻿Flight Name,Fare (INR),Departure City,Arrival City,Departure Time,Flight Number
+IndiGo,"3,500",Mumbai,Delhi,9:30 AM,6.00E+102
+Air India,"4,200",Mumbai,Delhi,12:45 PM,AI243
+SpiceJet,"3,800",Mumbai,Delhi,7:15 PM,SG503
+Vistara,"5,000",Mumbai,Delhi,11:00 AM,UK315
+Go First,"3,700",Mumbai,Delhi,2:20 PM,GF786
+IndiGo,"2,800",Bengaluru,Kolkata,8:00 AM,6E502
+Air India,"3,600",Bengaluru,Kolkata,1:00 PM,AI315
+SpiceJet,"3,200",Bengaluru,Kolkata,5:45 PM,SG214
+Vistara,"4,700",Bengaluru,Kolkata,9:00 AM,UK429
+Akasa Air,"2,900",Bengaluru,Kolkata,6:30 PM,AK601
+SpiceJet,"3,400",Hyderabad,Chennai,7:00 AM,SG109
+IndiGo,"3,000",Hyderabad,Chennai,11:30 AM,6.00E+203
+AirAsia India,"2,700",Hyderabad,Chennai,4:15 PM,I5142
+Go First,"3,200",Hyderabad,Chennai,8:45 PM,GF401
+Vistara,"4,600",Hyderabad,Chennai,1:30 PM,UK217
+IndiGo,"2,200",Jaipur,Ahmedabad,10:20 AM,6E344
+Air India,"2,500",Jaipur,Ahmedabad,2:00 PM,AI110
+SpiceJet,"2,150",Jaipur,Ahmedabad,7:10 PM,SG321
+Go First,"2,400",Jaipur,Ahmedabad,12:30 PM,GF118
+Akasa Air,"2,200",Jaipur,Ahmedabad,6:45 AM,AK342
+IndiGo,"3,900",Mumbai,Bengaluru,6:15 AM,6.00E+156
+Air India,"4,500",Mumbai,Bengaluru,1:45 PM,AI227
+Vistara,"5,200",Mumbai,Bengaluru,11:30 AM,UK302
+SpiceJet,"3,700",Mumbai,Bengaluru,7:15 PM,SG422
+Akasa Air,"3,200",Mumbai,Bengaluru,8:00 AM,AK128
+Go First,"4,000",Delhi,Kolkata,5:30 AM,GF528
+IndiGo,"3,600",Delhi,Kolkata,8:10 AM,6E412
+SpiceJet,"3,500",Delhi,Kolkata,1:30 PM,SG501
+AirAsia India,"3,200",Delhi,Kolkata,4:20 PM,I5164
+Vistara,"5,000",Delhi,Kolkata,9:45 PM,UK617
+IndiGo,"2,900",Chennai,Hyderabad,5:00 PM,6.00E+215
+Air India,"3,500",Chennai,Hyderabad,11:30 AM,AI315
+SpiceJet,"2,800",Chennai,Hyderabad,9:00 PM,SG221
+Go First,"3,000",Chennai,Hyderabad,7:20 AM,GF417
+Akasa Air,"2,900",Chennai,Hyderabad,6:40 PM,AK141
+IndiGo,"4,300",Ahmedabad,Bengaluru,2:40 PM,6.00E+172
+Vistara,"5,200",Ahmedabad,Bengaluru,10:00 AM,UK412
+SpiceJet,"4,000",Ahmedabad,Bengaluru,7:15 AM,SG103
+Air India,"4,800",Ahmedabad,Bengaluru,8:30 PM,AI243
+Go First,"3,900",Ahmedabad,Bengaluru,5:40 PM,GF510
+IndiGo,"3,200",Kolkata,Hyderabad,8:45 AM,6E416
+SpiceJet,"2,800",Kolkata,Hyderabad,3:10 PM,SG235
+AirAsia India,"2,900",Kolkata,Hyderabad,6:00 PM,I5187
+Akasa Air,"3,100",Kolkata,Hyderabad,7:15 AM,AK374
+Air India,"4,500",Kolkata,Hyderabad,10:25 AM,AI528
+Vistara,"4,600",Bengaluru,Kochi,7:00 AM,UK152
+IndiGo,"3,400",Bengaluru,Kochi,11:30 AM,6.00E+206
+Go First,"3,100",Bengaluru,Kochi,4:45 PM,GF334
+SpiceJet,"3,250",Bengaluru,Kochi,8:30 PM,SG423
+Akasa Air,"3,200",Bengaluru,Kochi,5:45 PM,AK115
+Air India,"5,700",Delhi,Jaipur,9:15 AM,AI314
+IndiGo,"2,800",Delhi,Jaipur,1:00 PM,6.00E+213
+Go First,"3,000",Delhi,Jaipur,6:10 PM,GF427
+SpiceJet,"3,100",Delhi,Jaipur,8:45 PM,SG102
+Vistara,"5,200",Delhi,Jaipur,7:30 AM,UK572
+Akasa Air,"3,400",Pune,Mumbai,10:45 AM,AK232
+IndiGo,"2,600",Pune,Mumbai,7:15 PM,6E316
+Go First,"2,450",Pune,Mumbai,8:30 AM,GF122
+SpiceJet,"3,000",Pune,Mumbai,5:20 PM,SG352
+Air India,"4,500",Pune,Mumbai,2:15 PM,AI118
+Vistara,"5,200",Mumbai,Pune,11:30 AM,UK302
+IndiGo,"3,800",Mumbai,Kochi,4:00 PM,6E452
+Vistara,"5,100",Mumbai,Kochi,6:30 AM,UK522
+Go First,"3,700",Mumbai,Kochi,1:20 PM,GF312
+Air India,"4,600",Mumbai,Kochi,8:15 PM,AI323
+SpiceJet,"3,500",Mumbai,Kochi,11:45 AM,SG112
+IndiGo,"3,600",Kolkata,Bengaluru,8:15 AM,6E311
+SpiceJet,"3,400",Kolkata,Bengaluru,11:30 AM,SG215
+Air India,"4,500",Kolkata,Bengaluru,9:00 PM,AI453
+Vistara,"4,900",Kolkata,Bengaluru,6:45 PM,UK532
+Go First,"3,100",Kolkata,Bengaluru,7:30 AM,GF318
+IndiGo,"4,500",Chennai,Delhi,10:20 AM,6.00E+112
+Vistara,"5,700",Chennai,Delhi,5:15 PM,UK218
+SpiceJet,"3,999",Chennai,Delhi,2:45 PM,SG118
+Go First,"4,300",Chennai,Delhi,9:00 AM,GF214
+AirAsia India,"3,800",Chennai,Delhi,11:10 AM,I5141
+Air India,"6,300",Mumbai,Kolkata,8:00 AM,AI509
+IndiGo,"3,800",Mumbai,Kolkata,3:30 PM,6E319
+SpiceJet,"4,000",Mumbai,Kolkata,7:45 AM,SG405
+Go First,"3,900",Mumbai,Kolkata,1:10 PM,GF328
+Vistara,"5,800",Mumbai,Kolkata,4:20 PM,UK521
+IndiGo,"3,500",Hyderabad,Bengaluru,9:00 AM,6.00E+217
+SpiceJet,"3,200",Hyderabad,Bengaluru,2:40 PM,SG105
+Air India,"4,400",Hyderabad,Bengaluru,5:15 PM,AI216
+Akasa Air,"3,200",Hyderabad,Bengaluru,6:55 PM,AK117
+Go First,"3,000",Hyderabad,Bengaluru,8:15 AM,GF107
+IndiGo,"2,800",Pune,Delhi,6:45 AM,6E414
+Vistara,"5,100",Pune,Delhi,3:30 PM,UK417
+SpiceJet,"3,200",Pune,Delhi,11:15 AM,SG213
+AirAsia India,"3,000",Pune,Delhi,4:45 PM,I5197
+Go First,"3,700",Pune,Delhi,7:10 PM,GF312
+IndiGo,"3,600",Ahmedabad,Hyderabad,8:20 AM,6.00E+251
+Air India,"4,300",Ahmedabad,Hyderabad,1:45 PM,AI228
+SpiceJet,"3,700",Ahmedabad,Hyderabad,11:00 AM,SG224
+Akasa Air,"3,300",Ahmedabad,Hyderabad,6:30 PM,AK119
+Go First,"3,250",Ahmedabad,Hyderabad,9:15 AM,GF411
+IndiGo,"2,900",Kochi,Mumbai,12:30 PM,6E451
+Air India,"4,500",Kochi,Mumbai,3:45 PM,AI507
+SpiceJet,"3,800",Kochi,Mumbai,10:10 AM,SG212
+Vistara,"5,200",Kochi,Mumbai,7:20 PM,UK520
+Go First,"2,950",Kochi,Mumbai,5:30 PM,GF321
+IndiGo,"3,400",Bengaluru,Jaipur,7:00 AM,6.00E+305
+SpiceJet,"3,100",Bengaluru,Jaipur,10:45 AM,SG325
+Air India,"4,600",Bengaluru,Jaipur,1:30 PM,AI313
+Go First,"3,300",Bengaluru,Jaipur,4:15 PM,GF423
+Akasa Air,"3,200",Bengaluru,Jaipur,6:55 PM,AK225
+IndiGo,"3,200",Delhi,Kochi,5:45 AM,6E452
+SpiceJet,"3,500",Delhi,Kochi,8:20 AM,SG223
+Air India,"4,800",Delhi,Kochi,2:00 PM,AI521
+Vistara,"5,300",Delhi,Kochi,11:15 AM,UK519
+Go First,"3,600",Delhi,Kochi,6:40 PM,GF417
+Akasa Air,"2,900",Hyderabad,Pune,10:15 AM,AK413
+IndiGo,"2,850",Hyderabad,Pune,1:20 PM,6.00E+216
+SpiceJet,"2,950",Hyderabad,Pune,9:30 AM,SG523
+AirAsia India,"3,050",Hyderabad,Pune,3:15 PM,I5167
+Go First,"3,200",Hyderabad,Pune,6:00 PM,GF534
+Go First,"4,000",Delhi,Mumbai,5:30 AM,GF528
+IndiGo,"3,600",Delhi,Mumbai,8:10 AM,6E412
+SpiceJet,"3,500",Delhi,Mumbai,1:30 PM,SG501
+AirAsia India,"3,200",Delhi,Mumbai,4:20 PM,I5164
+Vistara,"5,000",Delhi,Mumbai,9:45 PM,UK617
+Akasa Air,"3,400",Bengaluru,Mumbai,10:45 AM,AK232
+IndiGo,"2,600",Bengaluru,Mumbai,7:15 PM,6E316
+Go First,"2,450",Bengaluru,Mumbai,8:30 AM,GF122
+SpiceJet,"3,000",Bengaluru,Mumbai,5:20 PM,SG352
+Air India,"4,500",Bengaluru,Mumbai,2:15 PM,AI118
