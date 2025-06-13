@@ -262,3 +262,5 @@ npm run dev
 - Component-specific styles where needed
 - Consistent color scheme and spacing
 - Responsive design principles
+
+![Image 1](architecture.png)
