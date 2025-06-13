@@ -296,51 +296,6 @@ npm run build
 # Backend is ready for production as-is
 ```
 
-## 🎯 Agent Patterns Implemented
-
-### Sequential Processing
-```typescript
-// Example: Marketing copy generation with quality checks
-const result = await generateMarketingCopy(input);
-```
-
-### Parallel Processing
-```typescript
-// Example: Simultaneous flight, hotel, and activity searches
-const [flights, hotels, activities] = await Promise.all([...]);
-```
-
-### Orchestrator-Worker
-```typescript
-// Example: Planning agent coordinates specialized workers
-const plan = await generateImplementationPlan(request);
-const results = await executeWorkers(plan);
-```
-
-### Multi-Step Tool Usage
-```typescript
-// Example: AI autonomously decides which APIs to call
-const result = await generateText({
-  model: gemini,
-  tools: { searchFlights, searchHotels, generateActivities },
-  maxSteps: 10,
-  prompt: userRequest
-});
-```
-
-## 🚨 Limitations & Future Enhancements
-
-### Current Limitations
-- **Search Only**: System is designed for search, not actual bookings
-- **Mock Data**: Uses CSV files instead of live booking APIs
-- **Single Language**: Currently supports English only
-
-### Planned Enhancements
-- **Real Booking Integration**: Connect with actual airline and hotel APIs
-- **Multi-language Support**: Support for multiple languages
-- **Price Tracking**: Monitor price changes over time
-- **User Preferences**: Remember user travel preferences
-- **Advanced Filtering**: More sophisticated search filters
 
 ## 🤝 Contributing
 
