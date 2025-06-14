@@ -83,7 +83,7 @@ FLIGHT_API_URL=http://localhost:5000/searchflight
 HOTEL_API_URL=http://localhost:5000/searchhotel
 
 # Server Configuration
-PORT=3000
+PORT=8000
 ```
 
 ### 6. Configure Package Scripts
